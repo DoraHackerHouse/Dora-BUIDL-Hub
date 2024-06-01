@@ -2,9 +2,10 @@
 
 Add your information to the below list to officially participate in the hacker house challenges (This is the first mission of the whole hacker house)
 
-| Emoji | Name | Telegram Handle    | Dorahacks ID | 
-| ----- | ---- | ------------------ | -------| 
-| 🧑‍⚖️    | ZxStim | zxstim | 123
-| ---   | ---    | ---              | --- |
+| Emoji | Name   | Telegram Handle | Dorahacks ID    |
+|-------|--------|-----------------|-----------------|
+| 🧑‍⚖️ | ZxStim | zxstim          | 123             |
+| 🫡    | David  | dazheng_zhang   | git-on-my-level |
+| ---   | ---    | ---             | ---             |
 
 ⬆️ Submit your registration by adding your information to the table above and open a pull request.
