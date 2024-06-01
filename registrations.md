@@ -5,6 +5,7 @@ Add your information to the below list to officially participate in the hacker h
 | Emoji | Name | Telegram Handle    | Dorahacks ID | 
 | ----- | ---- | ------------------ | -------| 
 | 🧑‍⚖️    | ZxStim | zxstim | 123
+| 🐷    | Phong    | stupig3 | U_21ebfa4d48da58 |
 | ---   | ---    | ---              | --- |
 
 ⬆️ Submit your registration by adding your information to the table above and open a pull request.
