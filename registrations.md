@@ -5,6 +5,6 @@ Add your information to the below list to officially participate in the hacker h
 | Emoji | Name | Telegram Handle    | Dorahacks ID | 
 | ----- | ---- | ------------------ | -------| 
 | 🧑‍⚖️    | ZxStim | zxstim | 123
-| ---   | ---    | ---              | --- |
+| 🏋️    | Ippo    | @IppoCrypto      | NTP-996 |
 
 ⬆️ Submit your registration by adding your information to the table above and open a pull request.
